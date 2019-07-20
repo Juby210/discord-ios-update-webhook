@@ -1,0 +1,5 @@
+{
+  "Webhook": "webhook url from discord",
+  "Minutes": 15,
+  "SendIfEmptyCache": true
+}
